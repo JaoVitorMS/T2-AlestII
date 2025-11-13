@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+src/resources/caso4.txt
+src/resources/caso5.txt
+src/resources/caso6.txt
+src/resources/caso7.txt
+
+Main.jar
