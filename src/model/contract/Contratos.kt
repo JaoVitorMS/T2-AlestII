@@ -1,6 +1,8 @@
 
 package model.contract
 
+import model.core.*
+
 interface CarregarMapa{
     fun carregarMapa(numeroMapa: Int): Array<CharArray>
 }
